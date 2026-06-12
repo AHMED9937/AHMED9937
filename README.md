@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&&duration=3000&pause=1200&color=FDE68A&center=true&vCenter=true&multiline=true&width=720&lines=I+turn+ideas+into+shipped+products.;Mobile+%C2%B7+Web+%C2%B7+Clean+architecture.;Automated+pipelines.+Real+user+impact.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&&duration=3000&pause=1200&color=FDE68A&center=true&vCenter=true&multiline=true&width=720&height=720&lines=I+turn+ideas+into+shipped+products.;Mobile+%C2%B7+Web+%C2%B7+Clean+architecture.;Automated+pipelines.+Real+user+impact.)](https://git.io/typing-svg)
 
 
 
