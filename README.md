@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:1c1917,100:1c1917&text=Ahmed%20Mohamed&fontSize=52&fontColor=FCD34D&animation=scaleIn&desc=Frontend%20Engineer%20%C2%B7%20Flutter%20Developer&descSize=20&descAlignY=65&descAlign=50&descFontColor=E7E5E4"/>
 
-<br/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=FDE68A&center=true&vCenter=true&multiline=true&width=720&lines=I+turn+ideas+into+shipped+products.;Mobile+%C2%B7+Web+%C2%B7+Clean+architecture.;Automated+pipelines.+Real+user+impact.)](https://git.io/typing-svg)
 
-<br/>
+
 
 **🇪🇬 Egypt** &nbsp;·&nbsp; **BSc Computer Science** &nbsp;·&nbsp; **Cyber Security studies**
 
