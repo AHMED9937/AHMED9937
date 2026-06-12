@@ -1,215 +1,128 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0B1026,50:111827,75:1E293B,100:000000&text=Ahmed%20Mohamed&fontSize=54&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Production%20Builder&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:1c1917,50:292524,100:44403c&text=Ahmed%20Mohamed&fontSize=50&fontColor=fbbf24&animation=scaleIn&desc=Frontend%20Engineer%20%C2%B7%20Flutter%20Developer&descSize=18&descAlignY=65&descAlign=50"/>
+
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/76742380?v=4" width="100" style="border-radius: 50%; margin-top: -30px; border: 2px solid #fbbf24;" alt="Ahmed Mohamed"/>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=FBBF24&center=true&vCenter=true&multiline=true&width=700&lines=I+turn+ideas+into+shipped+products.;Mobile+%C2%B7+Web+%C2%B7+Clean+architecture.;Automated+pipelines.+Real+user+impact.)](https://git.io/typing-svg)
+
+<br/>
+
+<sub>🇪🇬 Egypt &nbsp;·&nbsp; BSc Computer Science &nbsp;·&nbsp; Cyber Security studies</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/AHMED9937?style=flat-square&logo=github&labelColor=1c1917&color=fbbf24"/>
+<img src="https://komarev.com/ghpvc/?username=AHMED9937&style=flat-square&labelColor=1c1917&color=2dd4bf"/>
+<img src="https://img.shields.io/github/last-commit/AHMED9937/AHMED9937?style=flat-square&labelColor=1c1917&color=a78bfa"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
+## About
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=110&lines=Shipping+Production-Grade+Mobile+Apps;Flutter+%7C+React+%7C+Next.js;Clean+Architecture+%7C+Automated+CI%2FCD;Building+Systems+That+Scale;User-First+Engineering)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/AHMED9937">
-<img src="https://img.shields.io/github/followers/AHMED9937?style=for-the-badge&logo=github&color=00FFD1&labelColor=050816"/>
-</a>
-
-<a href="https://github.com/AHMED9937">
-<img src="https://img.shields.io/github/stars/AHMED9937?style=for-the-badge&color=7C3AED&labelColor=050816"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=AHMED9937&style=for-the-badge&color=00FFD1&labelColor=050816"/>
-
-<img src="https://img.shields.io/github/last-commit/AHMED9937/AHMED9937?style=for-the-badge&color=38BDF8&labelColor=050816"/>
-
-</div>
-
----
-
-# 🖥️ SYSTEM TERMINAL
-
-```bash
-┌──(ahmed㉿production)-[~/profile]
-└─$ whoami
-
-Ahmed Mohamed
-
-┌──(ahmed㉿production)-[~/role]
-└─$ cat role.txt
-
-Frontend Engineer
-Flutter Developer
-Production-Focused Builder
-
-┌──(ahmed㉿production)-[~/focus]
-└─$ ls
-
-Flutter Mobile Development
-React / Next.js Web Apps
-CI/CD Automation
-Firebase & Cloud Integration
-Clean Architecture
-
-┌──(ahmed㉿production)-[~/mission]
-└─$ ./launch.sh
-
-[✓] ASD SmartCare — Autism Support Platform
-[✓] Automated Deployments — Zero Manual Steps
-[✓] 300+ LeetCode Problems Solved
-[✓] Exploring Full-Stack & Secure Systems
+```json
+{
+  "name": "Ahmed Mohamed",
+  "role": ["Frontend Engineer", "Flutter Developer"],
+  "builds": "Production mobile & web applications",
+  "cares_about": ["Clean architecture", "CI/CD automation", "User-centered design"],
+  "leetcode": "300+ problems",
+  "deploy_steps": 0
+}
 ```
 
----
+<br/>
 
-# ⚡ TECH STACK
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,python,nodejs,firebase,docker,githubactions,git,postman,figma,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,firebase,docker,githubactions,git,figma&perline=11"/>
 
 </div>
 
----
+<br/>
 
-# 🧠 SKILL MATRIX
+<table>
+<tr>
+<td width="50%">
+
+**Mobile & Web**  
+Flutter · Dart · React · Next.js · TypeScript
+
+</td>
+<td width="50%">
+
+**Production**  
+GitHub Actions · Docker · Firebase · Stripe · CI/CD
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Work
+
+| | Project | What it does |
+|:---:|:---|:---|
+| 🏥 | [**ASD SmartCare**](https://github.com/AHMED9937/ASD-SmartCare-Graduation-Project) | Autism support app — screening, therapists, Stripe subscriptions. Lead dev · **A+ · 3rd place** |
+| 🍽️ | [**Meal Planner**](https://github.com/AHMED9937/meal_planner) | Local-first meal planning in Next.js — no backend, no hosting costs |
+| 💼 | Accounting ERP UI | Enterprise interface for UAE government accountant |
+| 📱 | [**FlutterPenProject**](https://github.com/AHMED9937/FlutterPenProject) | Flutter production application |
+
+<br/>
+
+## Focus right now
+
+`Full-stack growth` &nbsp; `Secure systems` &nbsp; `Local-first architecture` &nbsp; `Production engineering`
+
+<br/>
+
+## GitHub
 
 <div align="center">
 
-| Domain | Stack | Level |
-|---|---|---|
-| Mobile Development | Flutter • Dart • Firebase | ██████████ |
-| Frontend Web | React • Next.js • TypeScript | █████████ |
-| Production Engineering | GitHub Actions • Docker • CI/CD | █████████ |
-| Architecture | MVC • Modular Design • Clean Code | ████████ |
-| Problem Solving | Algorithms • 300+ LeetCode | █████████ |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AHMED9937&show_icons=true&hide_border=true&bg_color=1c1917&title_color=fbbf24&icon_color=2dd4bf&text_color=d6d3d1&border_radius=10"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED9937&layout=compact&hide_border=true&bg_color=1c1917&title_color=fbbf24&text_color=d6d3d1&border_radius=10"/>
+
+<br/><br/>
+
+<img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED9937&hide_border=true&background=1c1917&ring=fbbf24&fire=2dd4bf&currStreakLabel=fbbf24&sideLabels=fbbf24&dates=d6d3d1&border_radius=10"/>
+
+<br/><br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMED9937&hide_border=true&bg_color=1c1917&color=fbbf24&line=2dd4bf&point=a78bfa&area=true&height=250"/>
 
 </div>
 
----
+<br/>
 
-# 🔥 ENGINEERING DASHBOARD
+## Connect
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FLUTTER-00FFD1?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/FIREBASE-38BDF8?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/LOCAL_FIRST-0EA5E9?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/STRIPE-22C55E?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/PRODUCTION_READY-14B8A6?style=for-the-badge&labelColor=050816"/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedmohamedfisal2025@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohamed-401886240)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ahmed_Mohmed_Fisal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AHMED9937)
 
 </div>
 
----
-
-# 🚀 CURRENT MISSION
-
-```yaml
-Currently Building:
-  - Full-Stack Web Applications
-  - Secure & Scalable Mobile Systems
-  - Local-First Architecture Patterns
-
-Active Projects:
-  - ASD SmartCare — Flutter · Firebase · Stripe
-  - Meal Planner — Next.js · Client-Side Persistence
-  - Accounting ERP UI — Enterprise Design System
-
-Goals:
-  - Ship Products That Solve Real Problems
-  - Master Production Engineering
-  - Deepen Cyber Security Knowledge
-```
-
----
-
-# 📊 GITHUB ANALYTICS
+<br/>
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=AHMED9937&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00FFD1&icon_color=7C3AED"/>
+<sub>building things that work · learning things that last</sub>
 
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED9937&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00FFD1"/>
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED9937&theme=tokyonight&hide_border=true&background=050816&ring=00FFD1&fire=7C3AED&currStreakLabel=00FFD1"/>
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHMED9937&theme=tokyo-night&hide_border=true&bg_color=050816&color=00FFD1&line=7C3AED&point=38BDF8"/>
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏥 [ASD SmartCare](https://github.com/AHMED9937/ASD-SmartCare-Graduation-Project) | Autism support platform — screening, therapists, subscriptions | Flutter • Firebase • Stripe |
-| 🍽️ [Meal Planner](https://github.com/AHMED9937/meal_planner) | Local-first meal planning — zero backend costs | Next.js • React |
-| 💼 Accounting ERP UI | Enterprise accounting interface for UAE government | Figma • Design Systems |
-| 📱 [FlutterPenProject](https://github.com/AHMED9937/FlutterPenProject) | Flutter production application | Flutter • Dart |
-
-</div>
-
----
-
-# 🌍 CONNECT
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ahmed-mohamed-401886240">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ahmedmohamedfisal2025@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Ahmed_Mohmed_Fisal/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/AHMED9937">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ⚡ LIVE STATUS
-
-<div align="center">
-
-```diff
-+ STATUS: ONLINE
-+ MODE: BUILDING & SHIPPING
-+ FOCUS: FLUTTER • REACT • PRODUCTION SYSTEMS
-+ LOCATION: EGYPT 🇪🇬
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050816,25:0B1026,50:111827,75:1E293B,100:000000"/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/AHMED9937/AHMED9937/output/github-contribution-grid-snake.svg" alt=""/>
 
