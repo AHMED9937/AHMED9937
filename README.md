@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/76742380?v=4" width="100" style="border-radius: 50%; margin-top: -30px; border: 2px solid #fbbf24;" alt="Ahmed Mohamed"/>
-
 <br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=FBBF24&center=true&vCenter=true&multiline=true&width=700&lines=I+turn+ideas+into+shipped+products.;Mobile+%C2%B7+Web+%C2%B7+Clean+architecture.;Automated+pipelines.+Real+user+impact.)](https://git.io/typing-svg)
