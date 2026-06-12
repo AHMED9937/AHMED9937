@@ -28,7 +28,7 @@
   "role": ["Frontend Engineer", "Flutter Developer"],
   "builds": "Production mobile & web applications",
   "cares_about": ["Clean architecture", "CI/CD automation", "User-centered design"],
-  "leetcode": "300+ problems",
+  "leetcode": "300+ DSA problems",
   "deploy_steps": 0
 }
 ```
@@ -66,12 +66,12 @@ GitHub Actions · Docker · Firebase · Stripe · CI/CD
 
 ## Work
 
-| | Project | What it does |
-|:---:|:---|:---|
-| 🏥 | [**ASD SmartCare**](https://github.com/AHMED9937/ASD-SmartCare-Graduation-Project) | Autism support app — screening, therapists, Stripe subscriptions. Lead dev · **A+ · 3rd place** |
-| 🍽️ | [**Meal Planner**](https://github.com/AHMED9937/meal_planner) | Local-first meal planning in Next.js — no backend, no hosting costs |
-| 💼 | Accounting ERP UI | Enterprise interface for UAE government accountant |
-| 📱 | [**FlutterPenProject**](https://github.com/AHMED9937/FlutterPenProject) | Flutter production application |
+| Project | What I shipped |
+|:---|:---|
+| [**ASD SmartCare**](https://github.com/AHMED9937/ASD-SmartCare-Graduation-Project) | Shipped a **5-subsystem** Flutter app with Stripe payments and full CI/CD — collaborating across UI/UX, backend, and frontend with production-grade architecture, testing, and docs. Cut manual releases to **zero**: every merge auto-builds, signs, and distributes via Docker + GitHub Actions. **A+ · 3rd place** |
+| [**Meal Planner**](https://github.com/AHMED9937/meal_planner) | **From** coach-driven PDF meal plans **to** a self-serve React/Next.js web app for a gym client — zero backend cost, no human bottleneck |
+| **Accounting ERP UI** | **From** non-technical client requirements **to** a functional accounting web interface — iterative Figma prototyping with continuous feedback (UAE government accountant) |
+| [**LeetCode**](https://leetcode.com/u/Ahmed_Mohmed_Fisal/) | **300+** DSA problems — arrays, linked lists, stacks, queues, hash maps, trees, heaps, graphs, union-find, sorting, searching, and dynamic programming |
 
 <br/>
 
