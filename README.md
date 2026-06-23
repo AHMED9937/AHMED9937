@@ -87,7 +87,7 @@ GitHub Actions · Docker · Firebase · Stripe · CI/CD
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AHMED9937&show_icons=true&hide_border=true&bg_color=1c1917&title_color=FCD34D&icon_color=2DD4BF&text_color=white&border_radius=10"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED9937&layout=compact&hide_border=true&bg_color=1c1917&title_color=FCD34D&text_color=E7E5E4&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED9937&layout=compact&hide_border=true&bg_color=1c1917&title_color=FCD34D&text_color=white&border_radius=10"/>
 
 <br/><br/>
 
