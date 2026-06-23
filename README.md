@@ -91,7 +91,7 @@ GitHub Actions · Docker · Firebase · Stripe · CI/CD
 
 <br/><br/>
 
-<img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED9937&hide_border=true&background=1c1917&ring=FCD34D&fire=2DD4BF&currStreakLabel=FCD34D&sideLabels=E7E5E4&dates=A8A29E&border_radius=10"/>
+<img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED9937&hide_border=true&background=1c1917&ring=FCD34D&fire=2DD4BF&currStreakLabel=FCD34D&sideLabels=E7E5E4&text_color=white&dates=A8A29E&border_radius=10"/>
 
 <br/><br/>
 
